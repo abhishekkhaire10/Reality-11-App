@@ -1,0 +1,1 @@
+web:setup.sh && streamlit run ml_model.py
